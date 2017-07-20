@@ -1,2 +1,1 @@
-# CBC17
-CodingBootCamp work
+Repo for SMU CBC 17
